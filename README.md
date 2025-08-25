@@ -8,7 +8,7 @@
 
 💡 **Sobre mim**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na USCS, com conclusão prevista para julho de 2025.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na USCS, com conclusão prevista para novembro de 2025.
 
 Estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e evoluir profissionalmente. Tenho experiência com AWS, Excel Avançado e Word, além de conhecimentos em desenvolvimento front-end e back-end.
 
