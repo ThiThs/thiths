@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alan+Sans&weight=600&size=40&letterSpacing=letter-spacing%3A+1px;&pause=1000&background=431FFF00&center=true&vCenter=true&width=1400&lines=Ol%C3%A1%2C+;Bem-vindo;sou+Thiago+Santos)](https://git.io/typing-svg)
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na USCS, tenho 22 anos.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na USCS, tenho 22 anos.
 Faço projetos na área de desenvolvimento web, utilizando Node.js, JavaScript, MySQL e AWS.
 
 Gosto de criar sistemas completos do backend ao visual unindo funcionalidade, design e boas práticas.
