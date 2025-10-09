@@ -1,93 +1,45 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<!-- Banner superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alan+Sans&weight=600&size=40&letterSpacing=letter-spacing%3A+1px;&pause=1000&background=431FFF00&center=true&vCenter=true&width=1400&lines=Ol%C3%A1%2C+;Bem-vindo;sou+Thiago+Santos)](https://git.io/typing-svg)
 
-# Thiago Santos
+🎓 Sou o Thiago, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na USCS.
+Faço projetos na área de desenvolvimento web, utilizando Node.js, JavaScript, MySQL e AWS.
 
-### Estudande de ADS 
+Gosto de criar sistemas completos do backend ao visual unindo funcionalidade, design e boas práticas.
+Atualmente desenvolvo o projeto Pho3nix, em parceria com Gustavo Guanabara, uma plataforma hospedada na AWS com autenticação, perfis dinâmicos e integração com banco de dados.
+  
+🚀 Além disso, estou produzindo dois aplicativos que estão em fase de desenvolvimento, explorando novas ideias e tecnologias para aprimorar ainda mais minhas habilidades.
 
-💡 **Sobre mim**
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na USCS, com conclusão prevista para novembro de 2025.
-
-Estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e evoluir profissionalmente. Tenho experiência com AWS, Excel Avançado e Word, além de conhecimentos em desenvolvimento front-end e back-end.
-
-📌 Meu objetivo é aplicar e expandir meus conhecimentos na área de TI, contribuindo para projetos inovadores e de alto impacto.
+💡 Sempre em busca de desafios que me façam evoluir profissionalmente.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<div align="center">
-    <img 
-        alt="HTML"
-        title="HTML" 
-        width="40px" 
-        style="margin-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img     
-        alt="CSS" 
-        title="CSS"
-        width="40px" 
-        style="margin-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="40px" 
-        style="margin-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        alt="AWS" 
-        title="AWS"
-        width="40px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
-    />
+### 💻 Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br><br>
-
 ---
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/ThiThs" target="_blank">
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-      width="420" 
-      src="https://github-readme-stats.vercel.app/api?username=ThiThs&show_icons=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff&include_all_commits=true&locale=pt-br" 
-    />
-  </a>
-  <a href="https://github.com/ThiThs" target="_blank">
-    <img 
-      alt="Top Langs" 
-      height="200" 
-      width="320" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiThs&bg_color=0d1117&title_color=FF0000&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-  </a>
-</p>
-
----
+### 📈 Estatísticas do GitHub
 <div align="center">
-
-<a href="https://www.linkedin.com/in/thiago-santos-de-souza-26030a77" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF0000" alt="LinkedIn">
-</a>
-<a href="https://github.com/ThiThs" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:thiago.souza6@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiThs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiThs&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
---- 
+---
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiths&color=FF0000" alt="thiths" />
-</p>
+### 🌐 Conecte-se comigo
+<a href="https://www.linkedin.com/in/thiago-santos-de-souza-26030a77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:thiagosantos@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/ThiThs"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+---
+
+<!-- Banner inferior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
