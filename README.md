@@ -36,8 +36,7 @@ Atualmente desenvolvo o projeto Pho3nix, em parceria com Gustavo Guanabara, uma 
 
 ### 🌐 Conecte-se comigo
 <a href="https://www.linkedin.com/in/thiago-santos-de-souza-26030a77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:thiagosantos@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/ThiThs"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:thiago.souza6@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
